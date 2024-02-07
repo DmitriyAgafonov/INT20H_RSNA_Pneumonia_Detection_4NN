@@ -29,6 +29,7 @@ MANIFEST
 # Custom added
 Data/*
 !Data/README.md
+!Data/image_bbox_full.csv
 
 .DS_Store
 
